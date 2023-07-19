@@ -1,5 +1,5 @@
-# fullcycle
-Repositirio dedicado aos projetos da Full Cycle
+## Desafio GO
 
-## Como utilizar:
-### Navague entre as branches disponíveis para acessar cada projeto
+Comando a ser executado:
+
+docker run hgrigolli/fullcycle:golang
