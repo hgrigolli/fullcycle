@@ -1,7 +1,6 @@
-# fullcycle
-Repositirio dedicado aos projetos da Full Cycle
+## Desafio Nginx com Node.js
 
-## Como utilizar:
-### Navague entre as branches disponíveis para acessar cada projeto
-
-- [Desafio GO](https://github.com/hgrigolli/fullcycle/tree/desafio-go)
+Faça o clone desta branch e execute o seguinte comando:
+```
+docker-compose up
+```
